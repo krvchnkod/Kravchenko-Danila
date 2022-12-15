@@ -1,0 +1,1 @@
+{'clf__C': 1, 'clf__coef0': -1.0, 'clf__degree': 1, 'clf__gamma': 'scale', 'clf__kernel': 'poly'}

@@ -1,0 +1,1 @@
+{'clf__algorithm': 'ball_tree', 'clf__leaf_size': 10, 'clf__n_neighbors': 12, 'clf__p': 2, 'clf__weights': 'distance'}
